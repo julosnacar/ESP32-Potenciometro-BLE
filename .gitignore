@@ -1,0 +1,21 @@
+# Archivos y carpetas de compilación de ESP-IDF
+/Bluedroid_Connection/build/
+/Bluedroid_Connection/sdkconfig.old
+/Bluedroid_Connection/sdkconfig.bak
+
+# Archivos de VS Code
+.vscode/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales de Python
+venv/
+.venv/
+env/
+.env
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
